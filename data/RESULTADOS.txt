@@ -1,0 +1,38 @@
+Ejecucion de los programas de Python
+                                    
+Programa k-mers13
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m43,290s
+user	1m43,131s
+sys	0m0,005s
+                                    
+Programa k-mers14
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m56,769s
+user	6m56,141s
+sys	0m0,005s
+Ejecucion de los programas de C++
+                                    
+Programa k-mers13
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m2,850s
+user	0m2,846s
+sys	0m0,001s
+                                    
+Programa k-mers14
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m11,454s
+user	0m11,441s
+sys	0m0,000s
